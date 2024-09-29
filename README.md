@@ -1,6 +1,6 @@
 # Sales-Prediction-Based-On-Advertisement-Data
- The project aims to predict sales based on advertising budgets, specifically from TV, radio, and newspaper ads. The dataset contains columns like:TV Ad Budget ($),Radio Ad Budget ($),Newspaper Ad Budget ($),Sales
-Steps in the Project:
+ The project aims to predict sales based on advertising budgets, specifically from TV, radio, and newspaper ads. The dataset contains columns like:TV Ad Budget ($),Radio Ad Budget ($),Newspaper Ad Budget ($),Sales/n
+Steps in the Project:/n
 1)Libraries Import:
 pandas, numpy, seaborn, and matplotlib are imported for data manipulation, analysis, and visualization.
 2)Data Loading:
